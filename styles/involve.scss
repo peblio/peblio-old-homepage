@@ -1,0 +1,34 @@
+.involve__container {
+  background-color: $light-red;
+  padding: $gap-medium 20% ;
+  display: flex;
+  flex-direction: column;
+}
+
+.involve__heading {
+  text-align: center;
+  padding: $gap-medium 0;
+  text-transform: uppercase;
+  color: $white;
+}
+
+.involve__blurb {
+  text-align: left;
+  padding: $gap-medium 0;
+  color: $white;
+}
+
+.involve__list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.involve__item {
+  width: 25%;
+}
+
+.involve__button {
+  width: 100%;
+  font-size: 1rem;
+}
