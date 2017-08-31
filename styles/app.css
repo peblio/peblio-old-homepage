@@ -1,4 +1,4 @@
-body, html, h1, h2, h3, h4, ul, li {
+body, html, h1, h2, h3, h4, ul, li, p {
   padding: 0;
   margin: 0; }
 
@@ -38,13 +38,14 @@ a, ul, li {
   width: 45%;
   display: flex;
   flex-direction: row;
-  padding: 2rem 0; }
+  padding: 2rem 0;
+  justify-content: space-between; }
 .adv__image {
   width: 100%; }
 .adv__image-container {
   width: 30%; }
 .adv__desc {
-  width: 70%; }
+  width: 60%; }
 
 .home__container {
   background-color: #fefefe;
