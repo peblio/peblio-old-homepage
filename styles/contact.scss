@@ -1,0 +1,19 @@
+.contact__container {
+  background-color: $light-red;
+  padding: $gap-medium 20% ;
+  display: flex;
+  flex-direction: column;
+}
+
+.contact__heading {
+  text-align: center;
+  padding: $gap-medium 0;
+  text-transform: uppercase;
+  color: $white;
+}
+
+.contact__blurb {
+  text-align: left;
+  padding: $gap-medium 0;
+  color: $white;
+}
