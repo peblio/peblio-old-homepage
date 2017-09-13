@@ -11,6 +11,14 @@
     padding: $gap-medium 0;
     text-transform: uppercase;
     color: $black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+  }
+  &__highlight {
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    font-size: 1rem;
+    color: $black;
   }
   &__list {
     display: flex;
@@ -26,6 +34,10 @@
     padding: $gap-medium 0;
     justify-content: space-between;
   }
+  &__text {
+    display: flex;
+    flex-direction: column;
+  }
   &__image {
     width: 100%;
   }
@@ -34,5 +46,6 @@
   }
   &__desc {
     width: 60%;
+    color: $grey;
   }
 }

@@ -6,15 +6,17 @@
 }
 
 .involve__heading {
-  text-align: center;
-  padding: $gap-medium 0;
-  text-transform: uppercase;
+  text-align: left;
+  padding-top: $gap-medium;
+  padding-bottom: $gap-small;
+  font-size: 2rem;
+  font-weight: 300;
   color: $white;
 }
 
 .involve__blurb {
   text-align: left;
-  padding: $gap-medium 0;
+  padding: $gap-small 0;
   color: $white;
 }
 
@@ -22,6 +24,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  padding: $gap-medium 0;
 }
 
 .involve__item {
@@ -31,4 +34,9 @@
 .involve__button {
   width: 100%;
   font-size: 1rem;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  color: $grey;
+  background-color: $white;
+  height: 5rem;
 }

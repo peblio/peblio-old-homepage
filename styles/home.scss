@@ -8,4 +8,20 @@
   margin: 0 auto;
   margin-top: 40%;
   text-align: center;
+  &-heading {
+    margin: $gap-small 0;
+    font-size: 2rem;
+    font-weight: 300;
+  }
+  &-tagline {
+    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    margin: $gap-small 0;
+  }
+  &-desc {
+    font-size: 1.2rem;
+    line-height: 2rem;
+    margin: $gap-small 0;
+  }
 }

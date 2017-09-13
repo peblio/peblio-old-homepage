@@ -6,9 +6,11 @@
 }
 
 .contact__heading {
-  text-align: center;
-  padding: $gap-medium 0;
-  text-transform: uppercase;
+  text-align: left;
+  padding-top: $gap-medium;
+  padding-bottom: $gap-small;
+  font-size: 2rem;
+  font-weight: 300;
   color: $white;
 }
 
