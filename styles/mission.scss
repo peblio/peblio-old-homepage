@@ -1,12 +1,10 @@
 .mission__container {
   background-color: $white;
-  min-height: 100%;
 }
 .mission__text {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  margin-top: 40%;
   text-align: center;
   &-heading {
     margin: $gap-small 0;

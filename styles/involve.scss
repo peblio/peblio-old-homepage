@@ -1,17 +1,17 @@
 .involve__container {
-  background-color: $light-red;
-  padding: $gap-medium 20% ;
+  background-color: $dark-grey;
   display: flex;
   flex-direction: column;
 }
 
 .involve__heading {
-  text-align: left;
+  justify-content: flex-start;
   padding-top: $gap-medium;
   padding-bottom: $gap-small;
   font-size: 2rem;
   font-weight: 300;
   color: $white;
+  width: 100%;
 }
 
 .involve__blurb {
@@ -21,6 +21,7 @@
 }
 
 .involve__list {
+  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -28,7 +29,7 @@
 }
 
 .involve__item {
-  width: 25%;
+  width: 30%;
 }
 
 .involve__button {

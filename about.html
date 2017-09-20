@@ -11,8 +11,8 @@
   <body>
     <nav class="nav">
       <div class="nav__left">
-        <a class="nav__logo-link">
-          <img class="nav__logo-image" src="/assets/logo.ico">
+        <a class="nav__link">
+          Peblio
         </a>
       </div>
       <div class="nav__right">
@@ -89,6 +89,25 @@
       <p class="contact__blurb">
         Peblio is a work in progress and we will release our Beta version soon. If you are a designer, developer or CS teacher and you would like to work with us, or if you would like to receive updates on our progress, or share your perspectives on CS education, please reach out! We'd love to hear from you.
       </p>
+
+      <form class="contact-form__container" name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSdDtF_3P3ptfbRxSfBU1IvNhB-DMaJS-CBZcHtoEk4EGdr8bQ/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+        <div class="contact-form__block">
+          <p class="contact-form__label">
+            Name:
+          </p>
+          <input class="contact-form__input" type="text" name="entry.215757178" id="entry.215757178">
+        </div>
+        <div class="contact-form__block">
+          <p class="contact-form__label">Email:</p>
+          <input class="contact-form__input" type="text" name="entry.2121258060" id="entry.2121258060">
+        </div>
+        <div class="contact-form__block">
+          <p class="contact-form__label">Message:</p>
+          <input class="contact-form__input contact-form__message-input" type="text" name="entry.1653668636" id="entry.1653668636">
+        </div>
+        <input class="contact-form__submit" type="submit" value="Submit">
+      </form>
+      <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
     </section>
 
   </body>

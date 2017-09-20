@@ -19,6 +19,9 @@ a,ul,li {
 
 .container {
   display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 95%;
   padding: 0 25%;
 }
 

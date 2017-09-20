@@ -1,6 +1,5 @@
 .contact__container {
-  background-color: $light-red;
-  padding: $gap-medium 20% ;
+  background-color: $dark-grey;
   display: flex;
   flex-direction: column;
 }
@@ -18,4 +17,39 @@
   text-align: left;
   padding: $gap-medium 0;
   color: $white;
+}
+
+.contact-form {
+  &__container {
+    width: 70%;
+    margin-right: 30%;
+  }
+  &__block {
+    display: flex;
+    flex-direction: row;
+    padding: $gap-small 0;
+  }
+  &__label {
+    width: 30%;
+    color: $light-grey;
+  }
+  &__input {
+    width: 70%;
+  }
+  &__message-input{
+    height: 10rem;
+  }
+  &__submit {
+    width: 30%;
+    margin-left: 30%;
+    margin-top: $gap-small;
+    font-size: 1rem;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color: #969696;
+    background-color: #fefefe;
+    height: 3rem;
+    box-shadow: none;
+    border: none;
+  }
 }
