@@ -35,9 +35,11 @@
   }
   &__input {
     width: 70%;
+    height: 1.2rem;
   }
   &__message-input{
     height: 10rem;
+    resize: none;
   }
   &__submit {
     width: 30%;

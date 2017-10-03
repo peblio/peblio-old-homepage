@@ -31,8 +31,17 @@
   }
   &__name {
     text-align: center;
+    color: $black;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    margin: 1rem 0;
   }
   &__title {
     text-align: center;
+    color: $dark-grey;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
   }
 }
