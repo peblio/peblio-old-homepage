@@ -1,153 +1,130 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Peblio</title>
-    <link rel="stylesheet" href="styles/app.css" />
-    <link href="https://fonts.googleapis.com/css?family=Oswald:500|Roboto:300" rel="stylesheet">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="app.js"></script>
-  </head>
-  <body>
-    <nav class="nav">
-      <div class="nav__left">
-        <a class="nav__link">
-          Peblio
-        </a>
-      </div>
-      <div class="nav__right">
-        <ul class="nav__list">
-          <li class="nav__list-item">
-            <a class="nav__link" href="#" target="_blank">
-              Home
-            </a>
-          </li>
-          <li class="nav__list-item">
-            <a class="nav__link" href="/about.html" target="_blank">
-              About Us
-            </a>
-          </li>
-        </ul>
-      </div>
-    </nav>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/style.css">
+  <title>TeachCS</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script type="text/javascript">var submitted=false;</script>
+  <script type="text/javascript">
+  function submitted() {
+    $('#gform *').fadeOut(2);
+    $('#gform').prepend('Your submission has been processed...');
+    });
+  </script>
+</head>
+<body>
+  <nav>
+    <div class="logo">
+      <img class="logo__img" src="images/logo.png" alt="logo">
+    </div>
 
-    <!-- HOME PAGE -->
-    <section class="container home__container">
-      <div class="home__text">
-        <h1 class="home__text-heading">
-          Peblio is a Computer Science education Platform
-        </h1>
-        <p class="home__text-desc">
-          We make it easy to create CS content, share it with others, and showcase your work.
-        </p>
-        <h2 class="home__text-tagline">
-          Learn, Teach, Share
-        </h2>
-      </div>
-    </section>
+    <ul>
+      <li>
+        <a href="#about">About</a>
+      </li>
+      <li>
+        <a href="#tools">Tools</a>
+      </li>
+      <li>
+        <a href="#resources">Resources</a>
+      </li>
+      <li>
+        <a href="#community">Community</a>
+      </li>
+      <li>
+        <a href="#contact">Learn</a>
+      </li>
+    </ul>
+  </nav>
 
-    <!-- PITCH -->
-    <section class="container pitch__container" id="pitch">
-      <h2 class="pitch__heading">
-        Teach Computer Science with Peblio
-      </h2>
-      <div class="pitch__video-container">
-        <iframe class="pitch__video" width="640" height="360" src="https://www.youtube.com/embed/AJpWxAbFFus">
-        </iframe>
-      </div>
-      <div class="pitch__features">
-        <ul class="features__list">
-          <li class="feature">
-            <img class="feature__image" src="/assets/pitch/pitch1.svg"/>
-            <p class="feature__desc">
-              Create Interactive Worksheets
-            </p>
-          </li>
-          <li class="feature">
-            <img class="feature__image" src="/assets/pitch/pitch2.svg"/>
-            <p class="feature__desc">
-              Access Student Work
-            </p>
-          </li>
-          <li class="feature">
-            <img class="feature__image" src="/assets/pitch/pitch3.svg"/>
-            <p class="feature__desc">
-              Build Portfolios
-            </p>
-          </li>
-        </ul>
-      </div>
-    </section>
+  <section id="about" class="section you full-height dark centered">
+    <p>Less than 40% of schools in the U.S. teach CS</p>
+    <p>We're on track to fill only 30% of computing jobs by 2020</p>
+    <p>You Got This</p>
+    <h1>You Teach Computer Science</h1>
+    <p>We're Here to Help</p>
 
-    <!-- ADVANTAGES -->
-    <section class="container adv__container">
-      <h2 class="adv__heading">
-        CS Education made easy
-      </h2>
-      <div class="adv__sub-container">
-        <ul class="adv__list">
-          <li class="adv__item">
-            <img class="adv__image" src="/assets/imgadv/imgadv1.svg" />
-              <p class="adv__desc">
-                <span class="adv__highlight">Interactive Worksheets</span>
-                Create and organize lessons with our easy to use templates
-              </p>
-            </p>
-          </li>
-          <li class="adv__item">
-            <img class="adv__image" src="/assets/imgadv/imgadv2.svg" />
-              <p class="adv__desc">
-                <span class="adv__highlight">Multiple Languages</span>
-                Use one platform for every language
-            </p>
-          </p>
-          </li>
-          <li class="adv__item">
-            <img class="adv__image" src="/assets/imgadv/imgadv3.svg" />
-              <p class="adv__desc">
-                <span class="adv__highlight">Portfolios</span>
-                Showcase student work
-              </p>
-            </p>
-          </li>
-          <li class="adv__item">
-            <img class="adv__image" src="/assets/imgadv/imgadv4.svg" />
-              <p class="adv__desc">
-                <span class="adv__highlight">Customizability</span>
-                Create and organize lessons with our easy to use templates
-              </p>
-            </p>
-          </li>
-        </ul>
-      </div>
-    </section>
+    <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSf03eWDIxUNb9WBifrpl8Iw33Sp_IEFcdK7rEuMtJ8rPzKrzw/formResponse?" target="hidden_iframe" onsubmit="
+    $('#gform *').fadeOut(2000);
+    $('#gform').prepend('Thank you for your reaching out!');
+    submitted=true;"
+    >
 
-    <!-- GET INVOLVED -->
-    <!-- <section class="container involve__container">
-      <h2 class="involve__heading">
-        Get Involved!
-      </h2>
-      <p class="involve__blurb">
-        With your input, we can build a better product. If you are a designer, developer, teacher, or student, we'd love to hear from you.
+      <input type="text" name="entry.342833621" id="entry.342833621" placeholder="Enter email"><br>
+      <input class="input__button" type="submit" value="Submit">
+    </form>
+
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
+  </section>
+
+  <section class="section about centered">
+    <p>
+      Your job is important. You shouldn't need to worry about the details.
+      We're doing our best to provide you with a streamlined workflow and
+      community platform that makes it easy to manage student programming work,
+      and find and adapt lesson plans.. or create your own!
+    </p>
+  </section>
+
+  <section id="tools" class="section tools gray centered">
+    <h2>Tools</h2>
+    <p>
+      Our interactive worksheets let you put your code, instructions, images,
+      questions, and more, all in one place. Work with one tab open!
+    </p>
+    <img class="tools-editor" src="images/editor.png" alt="Editor">
+  </section>
+
+  <section id="resources" class="section resources light-gray">
+    <div class="image">
+      <img class="resources-image" src="images/resources.png" alt="Resources">
+    </div>
+    <div class="text">
+      <h2>Resources</h2>
+      <p>
+        Find curricula, lesson plans, or project ideas on our homepage.
+        Personalize them for your students with edit mode, and send out
+        assignments with our google classroom button!
       </p>
-      <ul class="involve__list">
-        <li class="involve__item">
-          <button class="involve__button">
-            Join our development team
-          </button>
-        </li>
-        <li class="involve__item">
-          <button class="involve__button">
-            Become a pilot school
-          </button>
-        </li>
-        <li class="involve__item">
-          <button class="involve__button">
-            Give us feedback
-          </button>
-        </li>
-      </ul>
-    </section> -->
+    </div>
+  </section>
 
-  </body>
+  <section id="community" class="section community gray">
+    <div class="image">
+      <img class="community-image" src="images/community.png" alt="Resources">
+    </div>
+    <div class="text">
+      <h2>Community</h2>
+      <p>
+        Share the love and publish your lessons to contribute to the community.
+      </p>
+    </div>
+  </section>
+
+  <section id="contact" class="section contact light-gray">
+    <div class="text">
+      <p class="center">
+        Sign up to learn more and try our beta platform!
+      </p>
+      <form name="gform1" id="gform1" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSf03eWDIxUNb9WBifrpl8Iw33Sp_IEFcdK7rEuMtJ8rPzKrzw/formResponse?" target="hidden_iframe" onsubmit="
+
+      $('#gform1 *').fadeOut(2);
+      $('#gform1').prepend('Thank you for your reaching out!');
+      submitted=true;"
+      >
+
+        <input type="text" name="entry.342833621" id="entry.342833621" placeholder="Enter email"><br>
+        <input class="input__button"  type="submit" value="Submit">
+      </form>
+
+      <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+    </div>
+  </section>
+</body>
 </html>
