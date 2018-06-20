@@ -58,6 +58,19 @@ a:visited {
 a:hover {
   color: dark-gray;
 }
+.survey {
+    font-size: 1rem;
+    line-height: 5rem;
+    text-decoration: underline;
+}
+
+.survey:hover {
+    color: white;
+}
+
+.contact {
+  text-align: center;
+}
 .section {
   padding: 4rem 20rem;
 }
