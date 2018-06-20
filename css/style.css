@@ -113,6 +113,10 @@ a:hover {
   font-weight: 800;
 }
 
+.section.you div {
+  margin-left: 20%;
+}
+
 .section.about {
   padding-top: 8rem;
   padding-bottom: 8rem;
