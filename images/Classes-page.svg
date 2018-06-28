@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="996px" viewBox="0 0 1440 996" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Classes page</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="49" y="186" width="50" height="15" rx="7.5"></rect>
+        <filter x="-7.0%" y="-16.7%" width="114.0%" height="146.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.356345663   0 0 0 0 0.356345663   0 0 0 0 0.356345663  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="109" y="186" width="50" height="15" rx="7.5"></rect>
+        <filter x="-7.0%" y="-16.7%" width="114.0%" height="146.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.356345663   0 0 0 0 0.356345663   0 0 0 0 0.356345663  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="169" y="186" width="50" height="15" rx="7.5"></rect>
+        <filter x="-7.0%" y="-16.7%" width="114.0%" height="146.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.356345663   0 0 0 0 0.356345663   0 0 0 0 0.356345663  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="229" y="186" width="50" height="15" rx="7.5"></rect>
+        <filter x="-7.0%" y="-16.7%" width="114.0%" height="146.7%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.356345663   0 0 0 0 0.356345663   0 0 0 0 0.356345663  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="244" y="212" width="30" height="15" rx="7.5"></rect>
+        <filter x="-11.7%" y="-16.7%" width="123.3%" height="146.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.356345663   0 0 0 0 0.356345663   0 0 0 0 0.356345663  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="47" y="212" width="55" height="15" rx="7.5"></rect>
+        <filter x="-6.4%" y="-16.7%" width="112.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.356345663   0 0 0 0 0.356345663   0 0 0 0 0.356345663  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="112" y="212" width="55" height="15" rx="7.5"></rect>
+        <filter x="-6.4%" y="-16.7%" width="112.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.356345663   0 0 0 0 0.356345663   0 0 0 0 0.356345663  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="177" y="212" width="55" height="15" rx="7.5"></rect>
+        <filter x="-6.4%" y="-16.7%" width="112.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.356345663   0 0 0 0 0.356345663   0 0 0 0 0.356345663  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-17" x="49" y="286" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-19" x="49" y="316" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-21" x="49" y="346" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-23" x="49" y="377" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-25" x="177" y="286" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-27" x="177" y="316" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-29" x="177" y="346" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect x="124" y="104" width="20" height="20" id="rect-31"></rect>
+        <rect id="path-32" x="49" y="460" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-33">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-34" x="99" y="500" width="120" height="5" rx="2.5"></rect>
+        <filter x="-2.9%" y="-50.0%" width="105.8%" height="240.0%" filterUnits="objectBoundingBox" id="filter-35">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-36" x="49" y="572" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-37">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-38" x="49" y="602" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-39">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-40" x="49" y="632" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-41">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-42" x="49" y="663" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-43">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-44" x="49" y="742" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-45">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-46" x="49" y="772" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-47">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-48" x="49" y="802" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-49">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-50" x="49" y="833" width="15" height="15" rx="3"></rect>
+        <filter x="-23.3%" y="-16.7%" width="146.7%" height="146.7%" filterUnits="objectBoundingBox" id="filter-51">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-52" cx="130" cy="502" r="6"></circle>
+        <filter x="-54.2%" y="-45.8%" width="208.3%" height="208.3%" filterUnits="objectBoundingBox" id="filter-53">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.17254902   0 0 0 0 0.474509804   0 0 0 0 0.639215686  0 0 0 0.203209918 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-54" x="468" y="160" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-55">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M468,306 L639,306 L639,332 L639,332 C639,337.522847 634.522847,342 629,342 L478,342 L478,342 C472.477153,342 468,337.522847 468,332 L468,306 Z" id="path-56"></path>
+        <filter x="-4.7%" y="-19.4%" width="109.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-57">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-58" x="699" y="160" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-59">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-60" x="468" y="387" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-61">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-62" x="699" y="387" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-63">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-64" x="930" y="387" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-65">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-66" x="1161" y="387" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-67">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-68" x="468" y="614" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-69">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-70" x="699" y="614" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-71">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-72" x="930" y="614" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-73">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-74" x="1161" y="614" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-75">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-76" x="557" y="165" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-77">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-78" x="598" y="165" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-79">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M468,532.786797 L639,532.786797 L639,558.786797 L639,558.786797 C639,564.309644 634.522847,568.786797 629,568.786797 L478,568.786797 L478,568.786797 C472.477153,568.786797 468,564.309644 468,558.786797 L468,532.786797 Z" id="path-80"></path>
+        <filter x="-4.7%" y="-19.4%" width="109.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-81">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-82" x="598" y="392" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-83">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-84" x="930" y="160" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-85">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M930,306 L1101,306 L1101,332 L1101,332 C1101,337.522847 1096.52285,342 1091,342 L940,342 L940,342 C934.477153,342 930,337.522847 930,332 L930,306 Z" id="path-86"></path>
+        <filter x="-4.7%" y="-19.4%" width="109.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-87">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-88" x="1060" y="165" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-89">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M698.786797,533 L869.786797,533 L869.786797,559 L869.786797,559 C869.786797,564.522847 865.309644,569 859.786797,569 L708.786797,569 L708.786797,569 C703.263949,569 698.786797,564.522847 698.786797,559 L698.786797,533 Z" id="path-90"></path>
+        <filter x="-4.7%" y="-19.4%" width="109.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-91">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-92" x="828.786797" y="392" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-93">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-94" x="1161" y="160" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-95">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M1161,306 L1332,306 L1332,332 L1332,332 C1332,337.522847 1327.52285,342 1322,342 L1171,342 L1171,342 C1165.47715,342 1161,337.522847 1161,332 L1161,306 Z" id="path-96"></path>
+        <filter x="-4.7%" y="-19.4%" width="109.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-97">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-98" x="1291" y="165" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-99">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M930,533 L1101,533 L1101,559 L1101,559 C1101,564.522847 1096.52285,569 1091,569 L940,569 L940,569 C934.477153,569 930,564.522847 930,559 L930,533 Z" id="path-100"></path>
+        <filter x="-4.7%" y="-19.4%" width="109.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-101">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-102" x="1060" y="392" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-103">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M1161,533 L1332,533 L1332,559 L1332,559 C1332,564.522847 1327.52285,569 1322,569 L1171,569 L1171,569 C1165.47715,569 1161,564.522847 1161,559 L1161,533 Z" id="path-104"></path>
+        <filter x="-4.7%" y="-19.4%" width="109.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-105">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-106" x="1291" y="392" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-107">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-108" x="468" y="609.5" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-109">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-110" x="699" y="609.5" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-111">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-112" x="930" y="609.5" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-113">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-114" x="1161" y="609.5" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-115">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M468,755.5 L639,755.5 L639,781.5 L639,781.5 C639,787.022847 634.522847,791.5 629,791.5 L478,791.5 L478,791.5 C472.477153,791.5 468,787.022847 468,781.5 L468,755.5 Z" id="path-116"></path>
+        <filter x="-4.7%" y="-19.4%" width="109.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-117">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-118" x="598" y="614.5" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-119">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M699,755.5 L870,755.5 L870,781.5 L870,781.5 C870,787.022847 865.522847,791.5 860,791.5 L709,791.5 L709,791.5 C703.477153,791.5 699,787.022847 699,781.5 L699,755.5 Z" id="path-120"></path>
+        <filter x="-4.7%" y="-19.4%" width="109.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-121">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-122" x="829" y="614.5" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-123">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M930,755.5 L1101,755.5 L1101,781.5 L1101,781.5 C1101,787.022847 1096.52285,791.5 1091,791.5 L940,791.5 L940,791.5 C934.477153,791.5 930,787.022847 930,781.5 L930,755.5 Z" id="path-124"></path>
+        <filter x="-4.7%" y="-19.4%" width="109.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-125">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-126" x="1060" y="614.5" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-127">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M1161,755.5 L1332,755.5 L1332,781.5 L1332,781.5 C1332,787.022847 1327.52285,791.5 1322,791.5 L1171,791.5 L1171,791.5 C1165.47715,791.5 1161,787.022847 1161,781.5 L1161,755.5 Z" id="path-128"></path>
+        <filter x="-4.7%" y="-19.4%" width="109.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-129">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-130" x="1291" y="614.5" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-131">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-132" x="699" y="161" width="171" height="182" rx="10"></rect>
+        <filter x="-4.7%" y="-3.8%" width="109.4%" height="108.8%" filterUnits="objectBoundingBox" id="filter-133">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M699,307 L870,307 L870,333 L870,333 C870,338.522847 865.522847,343 860,343 L709,343 L709,343 C703.477153,343 699,338.522847 699,333 L699,307 Z" id="path-134"></path>
+        <filter x="-4.7%" y="-19.4%" width="109.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-135">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.922751913   0 0 0 0 0.922751913   0 0 0 0 0.922751913  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-136" x="829" y="166" width="37" height="15" rx="7.5"></rect>
+        <filter x="-9.5%" y="-16.7%" width="118.9%" height="146.7%" filterUnits="objectBoundingBox" id="filter-137">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.610278486   0 0 0 0 0.610278486   0 0 0 0 0.610278486  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ALL-Invision-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Classes-page">
+            <image id="logo-01" x="39" y="17" width="95" height="49" xlink:href="data:image/png;base64,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"></image>
+            <rect id="Rectangle-21" fill="#F7F7F7" x="0" y="83" width="1440" height="975"></rect>
+            <text id="Classes" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#2C79A3">
+                <tspan x="49" y="119">Classes </tspan>
+            </text>
+            <text id="GRADES" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1.16666663" fill="#262626">
+                <tspan x="49" y="170">GRADE</tspan>
+                <tspan x="99.4788409" y="170" letter-spacing="0.907407403">S</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="6th" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="64" y="198">6th</tspan>
+            </text>
+            <g id="Rectangle-2-Copy">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <text id="7th" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#000000">
+                <tspan x="124" y="198">7th</tspan>
+            </text>
+            <g id="Rectangle-2-Copy-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <text id="8th" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#000000">
+                <tspan x="184" y="198">8th</tspan>
+            </text>
+            <g id="Rectangle-2-Copy-3">
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+            </g>
+            <text id="9th" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="244" y="198">9th</tspan>
+            </text>
+            <g id="Rectangle-2-Copy-7">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+            </g>
+            <text id="AP" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="250.300781" y="224">AP</tspan>
+            </text>
+            <g id="Rectangle-2-Copy-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-11"></use>
+            </g>
+            <text id="10th" fill="#D8D8D8" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994">
+                <tspan x="60" y="224">10th</tspan>
+            </text>
+            <g id="Rectangle-2-Copy-5">
+                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+            </g>
+            <text id="11th" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="125" y="224">11th</tspan>
+            </text>
+            <g id="Rectangle-2-Copy-6">
+                <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+            </g>
+            <text id="12th" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="190" y="224">12th</tspan>
+            </text>
+            <text id="SUBJECTS" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1.16666663" fill="#262626">
+                <tspan x="49" y="270">SUBJECTS</tspan>
+            </text>
+            <text id="HTML/CSS" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="298">HTML/CSS</tspan>
+            </text>
+            <text id="Javascript" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="329">Javascript</tspan>
+            </text>
+            <text id="Python" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="360">Python</tspan>
+            </text>
+            <text id="Java" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="389">Java</tspan>
+            </text>
+            <g id="Rectangle-2-Copy-11">
+                <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+            </g>
+            <g id="Rectangle-2-Copy-10">
+                <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-19"></use>
+            </g>
+            <g id="Rectangle-2-Copy-9">
+                <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+            </g>
+            <g id="Rectangle-2-Copy-8">
+                <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
+            </g>
+            <text id="Math" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="197" y="298">Math</tspan>
+            </text>
+            <text id="Physics" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="197" y="329">Physics</tspan>
+            </text>
+            <text id="Science" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="197" y="359">Science</tspan>
+            </text>
+            <g id="Rectangle-2-Copy-15">
+                <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-25"></use>
+            </g>
+            <g id="Rectangle-2-Copy-14">
+                <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+            </g>
+            <g id="Rectangle-2-Copy-13">
+                <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-29"></use>
+            </g>
+            <text id="Pebls" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="255" y="50">Pebls</tspan>
+            </text>
+            <text id="Classes" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#2C79A3">
+                <tspan x="169" y="50">Classes</tspan>
+            </text>
+            <text id="Tutorials" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="324" y="50">Tutorials</tspan>
+            </text>
+            <text id="Blog" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#000000">
+                <tspan x="412" y="50">Blog</tspan>
+            </text>
+            <g id="5745-200">
+                <image x="124" y="104" width="20" height="20" xlink:href="data:image/png;base64,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"></image>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#rect-31"></use>
+            </g>
+            <path d="M123.360927,160.491428 L129,170.034476 L116,170.034476 L121.639073,160.491428 L121.639073,160.491428 C121.920037,160.015952 122.533253,159.858268 123.008729,160.139231 C123.153954,160.225046 123.275112,160.346203 123.360927,160.491428 Z" id="Triangle-6" fill="#262626" transform="translate(122.500000, 165.017238) scale(1, -1) translate(-122.500000, -165.017238) "></path>
+            <text id="PRICES" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1.16666663" fill="#262626">
+                <tspan x="49" y="440">PRICES</tspan>
+            </text>
+            <text id="Free" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="473">Free</tspan>
+            </text>
+            <text id="under-$5" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#262626">
+                <tspan x="48" y="506">under $5</tspan>
+            </text>
+            <text id="$10-and-up" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#262626">
+                <tspan x="226" y="507">$10 and up</tspan>
+            </text>
+            <g id="Rectangle-2-Copy-22">
+                <use fill="black" fill-opacity="1" filter="url(#filter-33)" xlink:href="#path-32"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-32"></use>
+            </g>
+            <g id="Rectangle-2-Copy-21">
+                <use fill="black" fill-opacity="1" filter="url(#filter-35)" xlink:href="#path-34"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-34"></use>
+            </g>
+            <rect id="Rectangle-2-Copy-31" fill="#2C79A3" x="99" y="500" width="30" height="5" rx="2.5"></rect>
+            <path d="M123.360927,430.491428 L129,440.034476 L116,440.034476 L121.639073,430.491428 L121.639073,430.491428 C121.920037,430.015952 122.533253,429.858268 123.008729,430.139231 C123.153954,430.225046 123.275112,430.346203 123.360927,430.491428 Z" id="Triangle-6-Copy-2" fill="#262626" transform="translate(122.500000, 435.017238) scale(1, -1) translate(-122.500000, -435.017238) "></path>
+            <text id="RESOURCE-TYPE" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1.16666663" fill="#262626">
+                <tspan x="49" y="556">RESOURCE TYPE</tspan>
+            </text>
+            <text id="Curricula" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="584">Curricula</tspan>
+            </text>
+            <text id="Videos" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="615">Videos</tspan>
+            </text>
+            <text id="Projects" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="645">Projects</tspan>
+            </text>
+            <text id="Hour-of-Code" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="675">Hour of Code</tspan>
+            </text>
+            <g id="Rectangle-2-Copy-26">
+                <use fill="black" fill-opacity="1" filter="url(#filter-37)" xlink:href="#path-36"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-36"></use>
+            </g>
+            <g id="Rectangle-2-Copy-25">
+                <use fill="black" fill-opacity="1" filter="url(#filter-39)" xlink:href="#path-38"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-38"></use>
+            </g>
+            <g id="Rectangle-2-Copy-24">
+                <use fill="black" fill-opacity="1" filter="url(#filter-41)" xlink:href="#path-40"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-40"></use>
+            </g>
+            <g id="Rectangle-2-Copy-23">
+                <use fill="black" fill-opacity="1" filter="url(#filter-43)" xlink:href="#path-42"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-42"></use>
+            </g>
+            <path d="M184.360927,546.491428 L190,556.034476 L177,556.034476 L182.639073,546.491428 L182.639073,546.491428 C182.920037,546.015952 183.533253,545.858268 184.008729,546.139231 C184.153954,546.225046 184.275112,546.346203 184.360927,546.491428 Z" id="Triangle-6-Copy-3" fill="#262626" transform="translate(183.500000, 551.017238) scale(1, -1) translate(-183.500000, -551.017238) "></path>
+            <text id="CS-EXPERIENCE" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1.16666663" fill="#262626">
+                <tspan x="49" y="726">CS EXPERIENCE</tspan>
+            </text>
+            <text id="None" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="754">None</tspan>
+            </text>
+            <text id="Basic" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="785">Basic</tspan>
+            </text>
+            <text id="Intermediate" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="815">Intermediate</tspan>
+            </text>
+            <text id="Advanced" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" letter-spacing="0.99999994" fill="#262626">
+                <tspan x="69" y="845">Advanced</tspan>
+            </text>
+            <g id="Rectangle-2-Copy-30">
+                <use fill="black" fill-opacity="1" filter="url(#filter-45)" xlink:href="#path-44"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-44"></use>
+            </g>
+            <g id="Rectangle-2-Copy-29">
+                <use fill="black" fill-opacity="1" filter="url(#filter-47)" xlink:href="#path-46"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-46"></use>
+            </g>
+            <g id="Rectangle-2-Copy-28">
+                <use fill="black" fill-opacity="1" filter="url(#filter-49)" xlink:href="#path-48"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-48"></use>
+            </g>
+            <g id="Rectangle-2-Copy-27">
+                <use fill="black" fill-opacity="1" filter="url(#filter-51)" xlink:href="#path-50"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-50"></use>
+            </g>
+            <path d="M181.360927,716.491428 L187,726.034476 L174,726.034476 L179.639073,716.491428 L179.639073,716.491428 C179.920037,716.015952 180.533253,715.858268 181.008729,716.139231 C181.153954,716.225046 181.275112,716.346203 181.360927,716.491428 Z" id="Triangle-6-Copy-4" fill="#262626" transform="translate(180.500000, 721.017238) scale(1, -1) translate(-180.500000, -721.017238) "></path>
+            <path d="M139.360927,260.491428 L145,270.034476 L132,270.034476 L137.639073,260.491428 L137.639073,260.491428 C137.920037,260.015952 138.533253,259.858268 139.008729,260.139231 C139.153954,260.225046 139.275112,260.346203 139.360927,260.491428 Z" id="Triangle-6-Copy" fill="#262626" transform="translate(138.500000, 265.017238) scale(1, -1) translate(-138.500000, -265.017238) "></path>
+            <g id="Oval-5">
+                <use fill="black" fill-opacity="1" filter="url(#filter-53)" xlink:href="#path-52"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-52"></use>
+            </g>
+            <g id="Rectangle-3-Copy">
+                <use fill="black" fill-opacity="1" filter="url(#filter-55)" xlink:href="#path-54"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-54"></use>
+            </g>
+            <g id="Rectangle-3-Copy-13">
+                <use fill="black" fill-opacity="1" filter="url(#filter-57)" xlink:href="#path-56"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-56"></use>
+            </g>
+            <g id="Rectangle-3-Copy-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-59)" xlink:href="#path-58"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-58"></use>
+            </g>
+            <g id="Rectangle-3-Copy-8">
+                <use fill="black" fill-opacity="1" filter="url(#filter-61)" xlink:href="#path-60"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-60"></use>
+            </g>
+            <g id="Rectangle-3-Copy-7">
+                <use fill="black" fill-opacity="1" filter="url(#filter-63)" xlink:href="#path-62"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-62"></use>
+            </g>
+            <g id="Rectangle-3-Copy-6">
+                <use fill="black" fill-opacity="1" filter="url(#filter-65)" xlink:href="#path-64"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-64"></use>
+            </g>
+            <g id="Rectangle-3-Copy-5">
+                <use fill="black" fill-opacity="1" filter="url(#filter-67)" xlink:href="#path-66"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-66"></use>
+            </g>
+            <g id="Rectangle-3-Copy-12">
+                <use fill="black" fill-opacity="1" filter="url(#filter-69)" xlink:href="#path-68"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-68"></use>
+            </g>
+            <g id="Rectangle-3-Copy-11">
+                <use fill="black" fill-opacity="1" filter="url(#filter-71)" xlink:href="#path-70"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-70"></use>
+            </g>
+            <g id="Rectangle-3-Copy-10">
+                <use fill="black" fill-opacity="1" filter="url(#filter-73)" xlink:href="#path-72"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-72"></use>
+            </g>
+            <g id="Rectangle-3-Copy-9">
+                <use fill="black" fill-opacity="1" filter="url(#filter-75)" xlink:href="#path-74"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-74"></use>
+            </g>
+            <text id="Intro-to-Javascript" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#262626">
+                <tspan x="496.762695" y="206">Intro to Javascript</tspan>
+            </text>
+            <text id="curriculum" font-family="Roboto-LightItalic, Roboto" font-size="10" font-style="italic" font-weight="300" fill="#262626">
+                <tspan x="531.036133" y="222">curriculum</tspan>
+            </text>
+            <text id="By-John-Doe" font-family="Roboto-Light, Roboto" font-size="10" font-weight="300" fill="#000000">
+                <tspan x="526.429199" y="249">By John Doe</tspan>
+            </text>
+            <text id="javascript,-physics" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                <tspan x="506.073242" y="277">javascript, physics</tspan>
+            </text>
+            <text id="45" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="474" y="316">45</tspan>
+            </text>
+            <text id="53-FORKS" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="474" y="332">53 </tspan>
+                <tspan x="485.171875" y="332" font-family="Roboto-Regular, Roboto" font-weight="normal">FORKS</tspan>
+            </text>
+            <polygon id="Star" fill="#FFEECC" points="490 315 487.648859 316.236068 488.097887 313.618034 486.195774 311.763932 488.824429 311.381966 490 309 491.175571 311.381966 493.804226 311.763932 491.902113 313.618034 492.351141 316.236068"></polygon>
+            <polygon id="Star-Copy" fill="#FFEECC" points="504 315 501.648859 316.236068 502.097887 313.618034 500.195774 311.763932 502.824429 311.381966 504 309 505.175571 311.381966 507.804226 311.763932 505.902113 313.618034 506.351141 316.236068"></polygon>
+            <polygon id="Star-Copy-2" fill="#FFEECC" points="518 315 515.648859 316.236068 516.097887 313.618034 514.195774 311.763932 516.824429 311.381966 518 309 519.175571 311.381966 521.804226 311.763932 519.902113 313.618034 520.351141 316.236068"></polygon>
+            <polygon id="Star-Copy-3" fill="#FFFFFF" opacity="0.5" points="532 315 529.648859 316.236068 530.097887 313.618034 528.195774 311.763932 530.824429 311.381966 532 309 533.175571 311.381966 535.804226 311.763932 533.902113 313.618034 534.351141 316.236068"></polygon>
+            <polygon id="Star-Copy-4" fill="#FFFFFF" opacity="0.5" points="545 315 542.648859 316.236068 543.097887 313.618034 541.195774 311.763932 543.824429 311.381966 545 309 546.175571 311.381966 548.804226 311.763932 546.902113 313.618034 547.351141 316.236068"></polygon>
+            <g id="Rectangle-2-Copy-12">
+                <use fill="black" fill-opacity="1" filter="url(#filter-77)" xlink:href="#path-76"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-76"></use>
+            </g>
+            <text id="7th" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="567" y="176">7th</tspan>
+            </text>
+            <g id="Rectangle-2-Copy-16">
+                <use fill="black" fill-opacity="1" filter="url(#filter-79)" xlink:href="#path-78"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-78"></use>
+            </g>
+            <text id="8th" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="608" y="176">8th</tspan>
+            </text>
+            <g id="Rectangle-3-Copy-19">
+                <use fill="black" fill-opacity="1" filter="url(#filter-81)" xlink:href="#path-80"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-80"></use>
+            </g>
+            <text id="Frogger-in-p5.js" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#262626">
+                <tspan x="504.866699" y="432.786797">Frogger in p5.js</tspan>
+            </text>
+            <text id="project" font-family="Roboto-LightItalic, Roboto" font-size="10" font-style="italic" font-weight="300" fill="#262626">
+                <tspan x="539.175781" y="448.786797">project</tspan>
+            </text>
+            <text id="By-John-Doe-Copy-3" font-family="Roboto-Light, Roboto" font-size="10" font-weight="300" fill="#000000">
+                <tspan x="526.429199" y="475.786797">By John Doe</tspan>
+            </text>
+            <text id="javascript,-physics-copy" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                <tspan x="506.073242" y="503.786797">javascript, physics</tspan>
+            </text>
+            <text id="10" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="474" y="542.786797">10</tspan>
+            </text>
+            <text id="150-FORKS" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="474" y="558.786797">150 </tspan>
+                <tspan x="489.761719" y="558.786797" font-family="Roboto-Regular, Roboto" font-weight="normal">FORKS</tspan>
+            </text>
+            <polygon id="Star-Copy-19" fill="#FFEECC" points="490 541.786797 487.648859 543.022865 488.097887 540.404831 486.195774 538.550729 488.824429 538.168763 490 535.786797 491.175571 538.168763 493.804226 538.550729 491.902113 540.404831 492.351141 543.022865"></polygon>
+            <polygon id="Star-Copy-18" fill="#FFEECC" points="504 541.786797 501.648859 543.022865 502.097887 540.404831 500.195774 538.550729 502.824429 538.168763 504 535.786797 505.175571 538.168763 507.804226 538.550729 505.902113 540.404831 506.351141 543.022865"></polygon>
+            <polygon id="Star-Copy-17" fill="#FFEECC" points="518 541.786797 515.648859 543.022865 516.097887 540.404831 514.195774 538.550729 516.824429 538.168763 518 535.786797 519.175571 538.168763 521.804226 538.550729 519.902113 540.404831 520.351141 543.022865"></polygon>
+            <polygon id="Star-Copy-16" fill="#FFEECC" points="532 541.786797 529.648859 543.022865 530.097887 540.404831 528.195774 538.550729 530.824429 538.168763 532 535.786797 533.175571 538.168763 535.804226 538.550729 533.902113 540.404831 534.351141 543.022865"></polygon>
+            <polygon id="Star-Copy-15" fill="#FFEECC" points="545 541.786797 542.648859 543.022865 543.097887 540.404831 541.195774 538.550729 543.824429 538.168763 545 535.786797 546.175571 538.168763 548.804226 538.550729 546.902113 540.404831 547.351141 543.022865"></polygon>
+            <g id="Rectangle-2-Copy-19">
+                <use fill="black" fill-opacity="1" filter="url(#filter-83)" xlink:href="#path-82"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-82"></use>
+            </g>
+            <text id="All" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="610" y="403">All</tspan>
+            </text>
+            <g id="Rectangle-3-Copy-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-85)" xlink:href="#path-84"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-84"></use>
+            </g>
+            <g id="Rectangle-3-Copy-16">
+                <use fill="black" fill-opacity="1" filter="url(#filter-87)" xlink:href="#path-86"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-86"></use>
+            </g>
+            <text id="Python" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#262626">
+                <tspan x="993.759277" y="206">Python</tspan>
+            </text>
+            <text id="curriculum-copy" font-family="Roboto-LightItalic, Roboto" font-size="10" font-style="italic" font-weight="300" fill="#262626">
+                <tspan x="993.036133" y="222">curriculum</tspan>
+            </text>
+            <text id="By-John-Doe-Copy" font-family="Roboto-Light, Roboto" font-size="10" font-weight="300" fill="#000000">
+                <tspan x="988.429199" y="249">By John Doe</tspan>
+            </text>
+            <text id="python" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                <tspan x="997.979492" y="277">python</tspan>
+            </text>
+            <text id="45-copy" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="936" y="316">45</tspan>
+            </text>
+            <text id="53-FORKS-Copy" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="936" y="332">53 </tspan>
+                <tspan x="947.171875" y="332" font-family="Roboto-Regular, Roboto" font-weight="normal">FORKS</tspan>
+            </text>
+            <polygon id="Star-Copy-9" fill="#FFEECC" points="952 315 949.648859 316.236068 950.097887 313.618034 948.195774 311.763932 950.824429 311.381966 952 309 953.175571 311.381966 955.804226 311.763932 953.902113 313.618034 954.351141 316.236068"></polygon>
+            <polygon id="Star-Copy-8" fill="#FFEECC" points="966 315 963.648859 316.236068 964.097887 313.618034 962.195774 311.763932 964.824429 311.381966 966 309 967.175571 311.381966 969.804226 311.763932 967.902113 313.618034 968.351141 316.236068"></polygon>
+            <polygon id="Star-Copy-7" fill="#FFEECC" points="980 315 977.648859 316.236068 978.097887 313.618034 976.195774 311.763932 978.824429 311.381966 980 309 981.175571 311.381966 983.804226 311.763932 981.902113 313.618034 982.351141 316.236068"></polygon>
+            <polygon id="Star-Copy-6" fill="#FFEECC" opacity="0.5" points="994 315 991.648859 316.236068 992.097887 313.618034 990.195774 311.763932 992.824429 311.381966 994 309 995.175571 311.381966 997.804226 311.763932 995.902113 313.618034 996.351141 316.236068"></polygon>
+            <polygon id="Star-Copy-5" fill="#FFFFFF" opacity="0.5" points="1007 315 1004.64886 316.236068 1005.09789 313.618034 1003.19577 311.763932 1005.82443 311.381966 1007 309 1008.17557 311.381966 1010.80423 311.763932 1008.90211 313.618034 1009.35114 316.236068"></polygon>
+            <g id="Rectangle-2-Copy-17">
+                <use fill="black" fill-opacity="1" filter="url(#filter-89)" xlink:href="#path-88"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-88"></use>
+            </g>
+            <text id="11th" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="1067" y="176">11th</tspan>
+            </text>
+            <path d="M1065,342.213203 L1101.2132,306 L1101.2132,332.213203 C1101.2132,337.736051 1096.73605,342.213203 1091.2132,342.213203 L1065,342.213203 Z" id="Combined-Shape-Copy" fill="#DE4C3A"></path>
+            <text id="$45" font-family="Roboto-Bold, Roboto" font-size="10" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1081.89404" y="334">$45</tspan>
+            </text>
+            <g id="Rectangle-3-Copy-20">
+                <use fill="black" fill-opacity="1" filter="url(#filter-91)" xlink:href="#path-90"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-90"></use>
+            </g>
+            <text id="Intermediate-Python" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#262626">
+                <tspan x="720.593925" y="433">Intermediate Python</tspan>
+            </text>
+            <text id="curriculum-copy-2" font-family="Roboto-LightItalic, Roboto" font-size="10" font-style="italic" font-weight="300" fill="#262626">
+                <tspan x="761.822929" y="449">curriculum</tspan>
+            </text>
+            <text id="By-John-Doe-Copy-4" font-family="Roboto-Light, Roboto" font-size="10" font-weight="300" fill="#000000">
+                <tspan x="757.215996" y="476">By John Doe</tspan>
+            </text>
+            <text id="python-copy" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                <tspan x="766.766289" y="504">python</tspan>
+            </text>
+            <text id="45-copy-2" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="704.786797" y="543">45</tspan>
+            </text>
+            <text id="53-FORKS-Copy-2" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="704.786797" y="559">53 </tspan>
+                <tspan x="715.958672" y="559" font-family="Roboto-Regular, Roboto" font-weight="normal">FORKS</tspan>
+            </text>
+            <polygon id="Star-Copy-24" fill="#FFEECC" points="720.786797 542 718.435656 543.236068 718.884684 540.618034 716.98257 538.763932 719.611226 538.381966 720.786797 536 721.962367 538.381966 724.591023 538.763932 722.68891 540.618034 723.137938 543.236068"></polygon>
+            <polygon id="Star-Copy-23" fill="#FFEECC" points="734.786797 542 732.435656 543.236068 732.884684 540.618034 730.98257 538.763932 733.611226 538.381966 734.786797 536 735.962367 538.381966 738.591023 538.763932 736.68891 540.618034 737.137938 543.236068"></polygon>
+            <polygon id="Star-Copy-22" fill="#FFEECC" points="748.786797 542 746.435656 543.236068 746.884684 540.618034 744.98257 538.763932 747.611226 538.381966 748.786797 536 749.962367 538.381966 752.591023 538.763932 750.68891 540.618034 751.137938 543.236068"></polygon>
+            <polygon id="Star-Copy-21" fill="#FFFFFF" opacity="0.5" points="762.786797 542 760.435656 543.236068 760.884684 540.618034 758.98257 538.763932 761.611226 538.381966 762.786797 536 763.962367 538.381966 766.591023 538.763932 764.68891 540.618034 765.137938 543.236068"></polygon>
+            <polygon id="Star-Copy-20" fill="#FFFFFF" opacity="0.5" points="775.786797 542 773.435656 543.236068 773.884684 540.618034 771.98257 538.763932 774.611226 538.381966 775.786797 536 776.962367 538.381966 779.591023 538.763932 777.68891 540.618034 778.137938 543.236068"></polygon>
+            <g id="Rectangle-2-Copy-20">
+                <use fill="black" fill-opacity="1" filter="url(#filter-93)" xlink:href="#path-92"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-92"></use>
+            </g>
+            <text id="11th-copy-2" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="835.786797" y="403">11th</tspan>
+            </text>
+            <path d="M833.786797,569.213203 L870,533 L870,559.213203 C870,564.736051 865.522847,569.213203 860,569.213203 L833.786797,569.213203 Z" id="Combined-Shape-Copy-3" fill="#DE4C3A"></path>
+            <text id="$5" font-family="Roboto-Bold, Roboto" font-size="10" font-weight="bold" fill="#FFFFFF">
+                <tspan x="853.549492" y="561">$5</tspan>
+            </text>
+            <g id="Rectangle-3-Copy-18">
+                <use fill="black" fill-opacity="1" filter="url(#filter-95)" xlink:href="#path-94"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-94"></use>
+            </g>
+            <g id="Rectangle-3-Copy-17">
+                <use fill="black" fill-opacity="1" filter="url(#filter-97)" xlink:href="#path-96"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-96"></use>
+            </g>
+            <text id="p5.js-Photo-Booth" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#262626">
+                <tspan x="1190.8291" y="206">p5.js Photo Booth</tspan>
+            </text>
+            <text id="hour-of-code" font-family="Roboto-LightItalic, Roboto" font-size="10" font-style="italic" font-weight="300" fill="#262626">
+                <tspan x="1219.93701" y="222">hour of code</tspan>
+            </text>
+            <text id="By-John-Doe-Copy-2" font-family="Roboto-Light, Roboto" font-size="10" font-weight="300" fill="#000000">
+                <tspan x="1219.4292" y="249">By John Doe</tspan>
+            </text>
+            <text id="p5.js,-javascript" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                <tspan x="1206.56445" y="277">p5.js, javascript</tspan>
+            </text>
+            <text id="68" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1167" y="316">68</tspan>
+            </text>
+            <text id="102-FORKS" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1167" y="332">102 </tspan>
+                <tspan x="1182.76172" y="332" font-family="Roboto-Regular, Roboto" font-weight="normal">FORKS</tspan>
+            </text>
+            <polygon id="Star-Copy-14" fill="#FFEECC" points="1183 315 1180.64886 316.236068 1181.09789 313.618034 1179.19577 311.763932 1181.82443 311.381966 1183 309 1184.17557 311.381966 1186.80423 311.763932 1184.90211 313.618034 1185.35114 316.236068"></polygon>
+            <polygon id="Star-Copy-13" fill="#FFEECC" points="1197 315 1194.64886 316.236068 1195.09789 313.618034 1193.19577 311.763932 1195.82443 311.381966 1197 309 1198.17557 311.381966 1200.80423 311.763932 1198.90211 313.618034 1199.35114 316.236068"></polygon>
+            <polygon id="Star-Copy-12" fill="#FFEECC" points="1211 315 1208.64886 316.236068 1209.09789 313.618034 1207.19577 311.763932 1209.82443 311.381966 1211 309 1212.17557 311.381966 1214.80423 311.763932 1212.90211 313.618034 1213.35114 316.236068"></polygon>
+            <polygon id="Star-Copy-11" fill="#FFEECC" points="1225 315 1222.64886 316.236068 1223.09789 313.618034 1221.19577 311.763932 1223.82443 311.381966 1225 309 1226.17557 311.381966 1228.80423 311.763932 1226.90211 313.618034 1227.35114 316.236068"></polygon>
+            <polygon id="Star-Copy-10" fill="#FFFFFF" opacity="0.5" points="1238 315 1235.64886 316.236068 1236.09789 313.618034 1234.19577 311.763932 1236.82443 311.381966 1238 309 1239.17557 311.381966 1241.80423 311.763932 1239.90211 313.618034 1240.35114 316.236068"></polygon>
+            <g id="Rectangle-2-Copy-18">
+                <use fill="black" fill-opacity="1" filter="url(#filter-99)" xlink:href="#path-98"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-98"></use>
+            </g>
+            <text id="11th-copy" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="1298" y="176">11th</tspan>
+            </text>
+            <path d="M1296,342.213203 L1332.2132,306 L1332.2132,332.213203 C1332.2132,337.736051 1327.73605,342.213203 1322.2132,342.213203 L1296,342.213203 Z" id="Combined-Shape-Copy-2" fill="#DE4C3A"></path>
+            <text id="$10" font-family="Roboto-Bold, Roboto" font-size="10" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1312.89404" y="334">$10</tspan>
+            </text>
+            <g id="Rectangle-3-Copy-23">
+                <use fill="black" fill-opacity="1" filter="url(#filter-101)" xlink:href="#path-100"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-100"></use>
+            </g>
+            <text id="AP-CS-JAVA" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#262626">
+                <tspan x="977.093262" y="433">AP CS JAVA</tspan>
+            </text>
+            <text id="curriculum-copy-3" font-family="Roboto-LightItalic, Roboto" font-size="10" font-style="italic" font-weight="300" fill="#262626">
+                <tspan x="993.036133" y="449">curriculum</tspan>
+            </text>
+            <text id="By-John-Doe-Copy-6" font-family="Roboto-Light, Roboto" font-size="10" font-weight="300" fill="#000000">
+                <tspan x="988.429199" y="476">By John Doe</tspan>
+            </text>
+            <text id="python-copy-2" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                <tspan x="997.979492" y="504">python</tspan>
+            </text>
+            <text id="45-copy-3" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="936" y="543">45</tspan>
+            </text>
+            <text id="53-FORKS-Copy-3" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="936" y="559">53 </tspan>
+                <tspan x="947.171875" y="559" font-family="Roboto-Regular, Roboto" font-weight="normal">FORKS</tspan>
+            </text>
+            <polygon id="Star-Copy-34" fill="#FFEECC" points="952 542 949.648859 543.236068 950.097887 540.618034 948.195774 538.763932 950.824429 538.381966 952 536 953.175571 538.381966 955.804226 538.763932 953.902113 540.618034 954.351141 543.236068"></polygon>
+            <polygon id="Star-Copy-33" fill="#FFEECC" points="966 542 963.648859 543.236068 964.097887 540.618034 962.195774 538.763932 964.824429 538.381966 966 536 967.175571 538.381966 969.804226 538.763932 967.902113 540.618034 968.351141 543.236068"></polygon>
+            <polygon id="Star-Copy-32" fill="#FFEECC" points="980 542 977.648859 543.236068 978.097887 540.618034 976.195774 538.763932 978.824429 538.381966 980 536 981.175571 538.381966 983.804226 538.763932 981.902113 540.618034 982.351141 543.236068"></polygon>
+            <polygon id="Star-Copy-31" fill="#FFFFFF" opacity="0.5" points="994 542 991.648859 543.236068 992.097887 540.618034 990.195774 538.763932 992.824429 538.381966 994 536 995.175571 538.381966 997.804226 538.763932 995.902113 540.618034 996.351141 543.236068"></polygon>
+            <polygon id="Star-Copy-30" fill="#FFFFFF" opacity="0.5" points="1007 542 1004.64886 543.236068 1005.09789 540.618034 1003.19577 538.763932 1005.82443 538.381966 1007 536 1008.17557 538.381966 1010.80423 538.763932 1008.90211 540.618034 1009.35114 543.236068"></polygon>
+            <g id="Rectangle-2-Copy-33">
+                <use fill="black" fill-opacity="1" filter="url(#filter-103)" xlink:href="#path-102"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-102"></use>
+            </g>
+            <text id="11th-copy-4" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="1067" y="403">11th</tspan>
+            </text>
+            <path d="M1065,569.213203 L1101.2132,533 L1101.2132,559.213203 C1101.2132,564.736051 1096.73605,569.213203 1091.2132,569.213203 L1065,569.213203 Z" id="Combined-Shape-Copy-5" fill="#DE4C3A"></path>
+            <text id="$25" font-family="Roboto-Bold, Roboto" font-size="10" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1082.39404" y="561">$25</tspan>
+            </text>
+            <g id="Rectangle-3-Copy-21">
+                <use fill="black" fill-opacity="1" filter="url(#filter-105)" xlink:href="#path-104"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-104"></use>
+            </g>
+            <text id="Intro-to-Front-End-D" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#262626">
+                <tspan x="1178.07324" y="433">Intro to Front-End Dev</tspan>
+            </text>
+            <text id="hour-of-code-copy" font-family="Roboto-LightItalic, Roboto" font-size="10" font-style="italic" font-weight="300" fill="#262626">
+                <tspan x="1219.93701" y="449">hour of code</tspan>
+            </text>
+            <text id="By-John-Doe-Copy-5" font-family="Roboto-Light, Roboto" font-size="10" font-weight="300" fill="#000000">
+                <tspan x="1219.4292" y="476">By John Doe</tspan>
+            </text>
+            <text id="front-end,-interface" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                <tspan x="1197.29492" y="504">front-end, interface</tspan>
+            </text>
+            <text id="68-copy" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1167" y="543">68</tspan>
+            </text>
+            <text id="102-FORKS-Copy" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1167" y="559">102 </tspan>
+                <tspan x="1182.76172" y="559" font-family="Roboto-Regular, Roboto" font-weight="normal">FORKS</tspan>
+            </text>
+            <polygon id="Star-Copy-29" fill="#FFEECC" points="1183 542 1180.64886 543.236068 1181.09789 540.618034 1179.19577 538.763932 1181.82443 538.381966 1183 536 1184.17557 538.381966 1186.80423 538.763932 1184.90211 540.618034 1185.35114 543.236068"></polygon>
+            <polygon id="Star-Copy-28" fill="#FFEECC" points="1197 542 1194.64886 543.236068 1195.09789 540.618034 1193.19577 538.763932 1195.82443 538.381966 1197 536 1198.17557 538.381966 1200.80423 538.763932 1198.90211 540.618034 1199.35114 543.236068"></polygon>
+            <polygon id="Star-Copy-27" fill="#FFEECC" points="1211 542 1208.64886 543.236068 1209.09789 540.618034 1207.19577 538.763932 1209.82443 538.381966 1211 536 1212.17557 538.381966 1214.80423 538.763932 1212.90211 540.618034 1213.35114 543.236068"></polygon>
+            <polygon id="Star-Copy-26" fill="#FFEECC" points="1225 542 1222.64886 543.236068 1223.09789 540.618034 1221.19577 538.763932 1223.82443 538.381966 1225 536 1226.17557 538.381966 1228.80423 538.763932 1226.90211 540.618034 1227.35114 543.236068"></polygon>
+            <polygon id="Star-Copy-25" fill="#FFFFFF" opacity="0.5" points="1238 542 1235.64886 543.236068 1236.09789 540.618034 1234.19577 538.763932 1236.82443 538.381966 1238 536 1239.17557 538.381966 1241.80423 538.763932 1239.90211 540.618034 1240.35114 543.236068"></polygon>
+            <g id="Rectangle-2-Copy-32">
+                <use fill="black" fill-opacity="1" filter="url(#filter-107)" xlink:href="#path-106"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-106"></use>
+            </g>
+            <text id="7th" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="1301" y="403">7th</tspan>
+            </text>
+            <g id="Rectangle-3-Copy-30">
+                <use fill="black" fill-opacity="1" filter="url(#filter-109)" xlink:href="#path-108"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-108"></use>
+            </g>
+            <g id="Rectangle-3-Copy-29">
+                <use fill="black" fill-opacity="1" filter="url(#filter-111)" xlink:href="#path-110"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-110"></use>
+            </g>
+            <g id="Rectangle-3-Copy-28">
+                <use fill="black" fill-opacity="1" filter="url(#filter-113)" xlink:href="#path-112"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-112"></use>
+            </g>
+            <g id="Rectangle-3-Copy-27">
+                <use fill="black" fill-opacity="1" filter="url(#filter-115)" xlink:href="#path-114"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-114"></use>
+            </g>
+            <g id="Rectangle-3-Copy-26">
+                <use fill="black" fill-opacity="1" filter="url(#filter-117)" xlink:href="#path-116"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-116"></use>
+            </g>
+            <text id="About-Me-page" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#262626">
+                <tspan x="506.233887" y="655.5">About Me page</tspan>
+            </text>
+            <text id="project-copy" font-family="Roboto-LightItalic, Roboto" font-size="10" font-style="italic" font-weight="300" fill="#262626">
+                <tspan x="539.175781" y="671.5">project</tspan>
+            </text>
+            <text id="By-John-Doe-Copy-10" font-family="Roboto-Light, Roboto" font-size="10" font-weight="300" fill="#000000">
+                <tspan x="526.429199" y="698.5">By John Doe</tspan>
+            </text>
+            <text id="html,-css" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                <tspan x="530.342773" y="726.5">html, css</tspan>
+            </text>
+            <text id="10-copy" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="474" y="765.5">10</tspan>
+            </text>
+            <text id="150-FORKS-Copy" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="474" y="781.5">150 </tspan>
+                <tspan x="489.761719" y="781.5" font-family="Roboto-Regular, Roboto" font-weight="normal">FORKS</tspan>
+            </text>
+            <polygon id="Star-Copy-54" fill="#FFEECC" points="490 764.5 487.648859 765.736068 488.097887 763.118034 486.195774 761.263932 488.824429 760.881966 490 758.5 491.175571 760.881966 493.804226 761.263932 491.902113 763.118034 492.351141 765.736068"></polygon>
+            <polygon id="Star-Copy-53" fill="#FFEECC" points="504 764.5 501.648859 765.736068 502.097887 763.118034 500.195774 761.263932 502.824429 760.881966 504 758.5 505.175571 760.881966 507.804226 761.263932 505.902113 763.118034 506.351141 765.736068"></polygon>
+            <polygon id="Star-Copy-52" fill="#FFEECC" points="518 764.5 515.648859 765.736068 516.097887 763.118034 514.195774 761.263932 516.824429 760.881966 518 758.5 519.175571 760.881966 521.804226 761.263932 519.902113 763.118034 520.351141 765.736068"></polygon>
+            <polygon id="Star-Copy-51" fill="#FFEECC" points="532 764.5 529.648859 765.736068 530.097887 763.118034 528.195774 761.263932 530.824429 760.881966 532 758.5 533.175571 760.881966 535.804226 761.263932 533.902113 763.118034 534.351141 765.736068"></polygon>
+            <polygon id="Star-Copy-50" fill="#FFEECC" points="545 764.5 542.648859 765.736068 543.097887 763.118034 541.195774 761.263932 543.824429 760.881966 545 758.5 546.175571 760.881966 548.804226 761.263932 546.902113 763.118034 547.351141 765.736068"></polygon>
+            <g id="Rectangle-2-Copy-37">
+                <use fill="black" fill-opacity="1" filter="url(#filter-119)" xlink:href="#path-118"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-118"></use>
+            </g>
+            <text id="All-Copy" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="610" y="625.5">All</tspan>
+            </text>
+            <g id="Rectangle-3-Copy-25">
+                <use fill="black" fill-opacity="1" filter="url(#filter-121)" xlink:href="#path-120"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-120"></use>
+            </g>
+            <text id="Python" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#262626">
+                <tspan x="762.759277" y="655.5">Python</tspan>
+            </text>
+            <text id="curriculum-copy-5" font-family="Roboto-LightItalic, Roboto" font-size="10" font-style="italic" font-weight="300" fill="#262626">
+                <tspan x="762.036133" y="671.5">curriculum</tspan>
+            </text>
+            <text id="By-John-Doe-Copy-9" font-family="Roboto-Light, Roboto" font-size="10" font-weight="300" fill="#000000">
+                <tspan x="757.429199" y="698.5">By John Doe</tspan>
+            </text>
+            <text id="python-copy-4" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                <tspan x="766.979492" y="726.5">python</tspan>
+            </text>
+            <text id="45-copy-5" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="705" y="765.5">45</tspan>
+            </text>
+            <text id="53-FORKS-Copy-5" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="705" y="781.5">53 </tspan>
+                <tspan x="716.171875" y="781.5" font-family="Roboto-Regular, Roboto" font-weight="normal">FORKS</tspan>
+            </text>
+            <polygon id="Star-Copy-49" fill="#FFEECC" points="721 764.5 718.648859 765.736068 719.097887 763.118034 717.195774 761.263932 719.824429 760.881966 721 758.5 722.175571 760.881966 724.804226 761.263932 722.902113 763.118034 723.351141 765.736068"></polygon>
+            <polygon id="Star-Copy-48" fill="#FFEECC" points="735 764.5 732.648859 765.736068 733.097887 763.118034 731.195774 761.263932 733.824429 760.881966 735 758.5 736.175571 760.881966 738.804226 761.263932 736.902113 763.118034 737.351141 765.736068"></polygon>
+            <polygon id="Star-Copy-47" fill="#FFEECC" points="749 764.5 746.648859 765.736068 747.097887 763.118034 745.195774 761.263932 747.824429 760.881966 749 758.5 750.175571 760.881966 752.804226 761.263932 750.902113 763.118034 751.351141 765.736068"></polygon>
+            <polygon id="Star-Copy-46" fill="#FFFFFF" opacity="0.5" points="763 764.5 760.648859 765.736068 761.097887 763.118034 759.195774 761.263932 761.824429 760.881966 763 758.5 764.175571 760.881966 766.804226 761.263932 764.902113 763.118034 765.351141 765.736068"></polygon>
+            <polygon id="Star-Copy-45" fill="#FFFFFF" opacity="0.5" points="776 764.5 773.648859 765.736068 774.097887 763.118034 772.195774 761.263932 774.824429 760.881966 776 758.5 777.175571 760.881966 779.804226 761.263932 777.902113 763.118034 778.351141 765.736068"></polygon>
+            <g id="Rectangle-2-Copy-36">
+                <use fill="black" fill-opacity="1" filter="url(#filter-123)" xlink:href="#path-122"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-122"></use>
+            </g>
+            <text id="11th-copy-3" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="836" y="625.5">11th</tspan>
+            </text>
+            <path d="M834,791.713203 L870.213203,755.5 L870.213203,781.713203 C870.213203,787.236051 865.736051,791.713203 860.213203,791.713203 L834,791.713203 Z" id="Combined-Shape-Copy-4" fill="#DE4C3A"></path>
+            <text id="$45-copy-2" font-family="Roboto-Bold, Roboto" font-size="10" font-weight="bold" fill="#FFFFFF">
+                <tspan x="850.894043" y="783.5">$45</tspan>
+            </text>
+            <g id="Rectangle-3-Copy-24">
+                <use fill="black" fill-opacity="1" filter="url(#filter-125)" xlink:href="#path-124"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-124"></use>
+            </g>
+            <text id="AP-CS-JAVA-Copy" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#262626">
+                <tspan x="977.093262" y="655.5">AP CS JAVA</tspan>
+            </text>
+            <text id="curriculum-copy-4" font-family="Roboto-LightItalic, Roboto" font-size="10" font-style="italic" font-weight="300" fill="#262626">
+                <tspan x="993.036133" y="671.5">curriculum</tspan>
+            </text>
+            <text id="By-John-Doe-Copy-8" font-family="Roboto-Light, Roboto" font-size="10" font-weight="300" fill="#000000">
+                <tspan x="988.429199" y="698.5">By John Doe</tspan>
+            </text>
+            <text id="python-copy-3" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                <tspan x="997.979492" y="726.5">python</tspan>
+            </text>
+            <text id="45-copy-4" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="936" y="765.5">45</tspan>
+            </text>
+            <text id="53-FORKS-Copy-4" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="936" y="781.5">53 </tspan>
+                <tspan x="947.171875" y="781.5" font-family="Roboto-Regular, Roboto" font-weight="normal">FORKS</tspan>
+            </text>
+            <polygon id="Star-Copy-44" fill="#FFEECC" points="952 764.5 949.648859 765.736068 950.097887 763.118034 948.195774 761.263932 950.824429 760.881966 952 758.5 953.175571 760.881966 955.804226 761.263932 953.902113 763.118034 954.351141 765.736068"></polygon>
+            <polygon id="Star-Copy-43" fill="#FFEECC" points="966 764.5 963.648859 765.736068 964.097887 763.118034 962.195774 761.263932 964.824429 760.881966 966 758.5 967.175571 760.881966 969.804226 761.263932 967.902113 763.118034 968.351141 765.736068"></polygon>
+            <polygon id="Star-Copy-42" fill="#FFEECC" points="980 764.5 977.648859 765.736068 978.097887 763.118034 976.195774 761.263932 978.824429 760.881966 980 758.5 981.175571 760.881966 983.804226 761.263932 981.902113 763.118034 982.351141 765.736068"></polygon>
+            <polygon id="Star-Copy-41" fill="#FFFFFF" opacity="0.5" points="994 764.5 991.648859 765.736068 992.097887 763.118034 990.195774 761.263932 992.824429 760.881966 994 758.5 995.175571 760.881966 997.804226 761.263932 995.902113 763.118034 996.351141 765.736068"></polygon>
+            <polygon id="Star-Copy-40" fill="#FFFFFF" opacity="0.5" points="1007 764.5 1004.64886 765.736068 1005.09789 763.118034 1003.19577 761.263932 1005.82443 760.881966 1007 758.5 1008.17557 760.881966 1010.80423 761.263932 1008.90211 763.118034 1009.35114 765.736068"></polygon>
+            <g id="Rectangle-2-Copy-35">
+                <use fill="black" fill-opacity="1" filter="url(#filter-127)" xlink:href="#path-126"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-126"></use>
+            </g>
+            <text id="11th-copy-5" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="1067" y="625.5">11th</tspan>
+            </text>
+            <g id="Rectangle-3-Copy-22">
+                <use fill="black" fill-opacity="1" filter="url(#filter-129)" xlink:href="#path-128"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-128"></use>
+            </g>
+            <text id="Intro-to-Front-End-D-Copy" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#262626">
+                <tspan x="1178.07324" y="655.5">Intro to Front-End Dev</tspan>
+            </text>
+            <text id="hour-of-code-copy-2" font-family="Roboto-LightItalic, Roboto" font-size="10" font-style="italic" font-weight="300" fill="#262626">
+                <tspan x="1219.93701" y="671.5">hour of code</tspan>
+            </text>
+            <text id="By-John-Doe-Copy-7" font-family="Roboto-Light, Roboto" font-size="10" font-weight="300" fill="#000000">
+                <tspan x="1219.4292" y="698.5">By John Doe</tspan>
+            </text>
+            <text id="front-end,-interface-copy" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                <tspan x="1197.29492" y="726.5">front-end, interface</tspan>
+            </text>
+            <text id="68-copy-2" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1167" y="765.5">68</tspan>
+            </text>
+            <text id="102-FORKS-Copy-2" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1167" y="781.5">102 </tspan>
+                <tspan x="1182.76172" y="781.5" font-family="Roboto-Regular, Roboto" font-weight="normal">FORKS</tspan>
+            </text>
+            <polygon id="Star-Copy-39" fill="#FFEECC" points="1183 764.5 1180.64886 765.736068 1181.09789 763.118034 1179.19577 761.263932 1181.82443 760.881966 1183 758.5 1184.17557 760.881966 1186.80423 761.263932 1184.90211 763.118034 1185.35114 765.736068"></polygon>
+            <polygon id="Star-Copy-38" fill="#FFEECC" points="1197 764.5 1194.64886 765.736068 1195.09789 763.118034 1193.19577 761.263932 1195.82443 760.881966 1197 758.5 1198.17557 760.881966 1200.80423 761.263932 1198.90211 763.118034 1199.35114 765.736068"></polygon>
+            <polygon id="Star-Copy-37" fill="#FFEECC" points="1211 764.5 1208.64886 765.736068 1209.09789 763.118034 1207.19577 761.263932 1209.82443 760.881966 1211 758.5 1212.17557 760.881966 1214.80423 761.263932 1212.90211 763.118034 1213.35114 765.736068"></polygon>
+            <polygon id="Star-Copy-36" fill="#FFEECC" points="1225 764.5 1222.64886 765.736068 1223.09789 763.118034 1221.19577 761.263932 1223.82443 760.881966 1225 758.5 1226.17557 760.881966 1228.80423 761.263932 1226.90211 763.118034 1227.35114 765.736068"></polygon>
+            <polygon id="Star-Copy-35" fill="#FFFFFF" opacity="0.5" points="1238 764.5 1235.64886 765.736068 1236.09789 763.118034 1234.19577 761.263932 1236.82443 760.881966 1238 758.5 1239.17557 760.881966 1241.80423 761.263932 1239.90211 763.118034 1240.35114 765.736068"></polygon>
+            <g id="Rectangle-2-Copy-34">
+                <use fill="black" fill-opacity="1" filter="url(#filter-131)" xlink:href="#path-130"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-130"></use>
+            </g>
+            <text id="7th-copy" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="1301" y="625.5">7th</tspan>
+            </text>
+            <path d="M45,130 L1396.78228,130" id="Path-18" stroke="#2C79A3" stroke-width="2" opacity="0.3" stroke-linecap="round"></path>
+            <g id="Rectangle-3-Copy-32">
+                <use fill="black" fill-opacity="1" filter="url(#filter-133)" xlink:href="#path-132"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-132"></use>
+            </g>
+            <g id="Rectangle-3-Copy-31">
+                <use fill="black" fill-opacity="1" filter="url(#filter-135)" xlink:href="#path-134"></use>
+                <use fill="#2C79A3" fill-rule="evenodd" xlink:href="#path-134"></use>
+            </g>
+            <text id="Intro-to-Front-End-D-Copy-2" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#262626">
+                <tspan x="716.073242" y="207">Intro to Front-End Dev</tspan>
+            </text>
+            <text id="hour-of-code-copy-3" font-family="Roboto-LightItalic, Roboto" font-size="10" font-style="italic" font-weight="300" fill="#262626">
+                <tspan x="757.937012" y="223">hour of code</tspan>
+            </text>
+            <text id="By-John-Doe-Copy-11" font-family="Roboto-Light, Roboto" font-size="10" font-weight="300" fill="#000000">
+                <tspan x="757.429199" y="250">By John Doe</tspan>
+            </text>
+            <text id="front-end,-interface-copy-2" font-family="Roboto-Light, Roboto" font-size="12" font-weight="300" fill="#000000">
+                <tspan x="735.294922" y="278">front-end, interface</tspan>
+            </text>
+            <text id="68-copy-3" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="705" y="317">68</tspan>
+            </text>
+            <text id="102-FORKS-Copy-3" font-family="Roboto-Bold, Roboto" font-size="8" font-weight="bold" fill="#FFFFFF">
+                <tspan x="705" y="333">102 </tspan>
+                <tspan x="720.761719" y="333" font-family="Roboto-Regular, Roboto" font-weight="normal">FORKS</tspan>
+            </text>
+            <polygon id="Star-Copy-59" fill="#FFEECC" points="721 316 718.648859 317.236068 719.097887 314.618034 717.195774 312.763932 719.824429 312.381966 721 310 722.175571 312.381966 724.804226 312.763932 722.902113 314.618034 723.351141 317.236068"></polygon>
+            <polygon id="Star-Copy-58" fill="#FFEECC" points="735 316 732.648859 317.236068 733.097887 314.618034 731.195774 312.763932 733.824429 312.381966 735 310 736.175571 312.381966 738.804226 312.763932 736.902113 314.618034 737.351141 317.236068"></polygon>
+            <polygon id="Star-Copy-57" fill="#FFEECC" points="749 316 746.648859 317.236068 747.097887 314.618034 745.195774 312.763932 747.824429 312.381966 749 310 750.175571 312.381966 752.804226 312.763932 750.902113 314.618034 751.351141 317.236068"></polygon>
+            <polygon id="Star-Copy-56" fill="#FFEECC" points="763 316 760.648859 317.236068 761.097887 314.618034 759.195774 312.763932 761.824429 312.381966 763 310 764.175571 312.381966 766.804226 312.763932 764.902113 314.618034 765.351141 317.236068"></polygon>
+            <polygon id="Star-Copy-55" fill="#FFFFFF" opacity="0.5" points="776 316 773.648859 317.236068 774.097887 314.618034 772.195774 312.763932 774.824429 312.381966 776 310 777.175571 312.381966 779.804226 312.763932 777.902113 314.618034 778.351141 317.236068"></polygon>
+            <g id="Rectangle-2-Copy-38">
+                <use fill="black" fill-opacity="1" filter="url(#filter-137)" xlink:href="#path-136"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-136"></use>
+            </g>
+            <text id="7th-copy-2" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="0.833333254" fill="#ADADAD">
+                <tspan x="839" y="177">7th</tspan>
+            </text>
+            <g id="Group-Copy" transform="translate(1390.000000, 26.000000)" fill="#292C33">
+                <circle id="Oval-2" cx="13" cy="7" r="7"></circle>
+                <path d="M0.250045289,28 C0.0860756485,27.2460768 0,26.4657536 0,25.6666667 C0,19.2233446 5.59644063,14 12.5,14 C19.4035594,14 25,19.2233446 25,25.6666667 C25,26.4657536 24.9139244,27.2460768 24.7499547,28 L0.250045289,28 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
