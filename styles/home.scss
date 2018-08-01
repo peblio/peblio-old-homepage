@@ -1,0 +1,44 @@
+.home {
+  margin: $pg-padding 0;
+  &__container {
+    border: $border-size dashed $gray;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    padding: $lg-padding*2;
+    border-top: $border-nav solid $green;
+  }
+  &__heading {
+    height: $h1-size;
+  }
+  &__sub-heading {
+    font-size: $p-size;
+    font-weight: 700;
+    margin: $md-margin 0;
+  }
+  &__content {
+    font-size: $p-size;
+    font-weight: 300;
+  }
+  &__list {
+    display: flex;
+  }
+  &__list-item {
+    list-style: none;
+    margin: $md-margin;
+  }
+  &__button {
+    padding: $sm-padding $md-padding;
+    border-radius: $border-radius;
+    color: $green;
+    background: $lightest-gray;
+    border: $border-size solid $green;
+    cursor: pointer;
+    &:hover {
+      background: $green;
+      color: $white;
+    }
+  }
+}

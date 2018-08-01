@@ -1,0 +1,104 @@
+.contact {
+  background: #01151E; }
+
+.content {
+  background: #F0F0F0;
+  padding: 7% 0; }
+  .content__heading {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin: 1rem 0;
+    text-align: center; }
+
+.profiles {
+  padding-top: 7%;
+  margin: 0 10%; }
+  .profiles__list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    margin: 3rem 0; }
+  .profiles__img {
+    width: 200px;
+    margin: 0 1.5rem;
+    border-radius: 100px; }
+  .profiles__heading {
+    font-size: 0.8rem;
+    color: #B1B1B1; }
+
+.lessons {
+  margin: 0 10%; }
+  .lessons__list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    margin: 3rem 0; }
+  .lessons__img {
+    width: 200px;
+    height: 250px;
+    margin: 0 1.5rem;
+    border-top: 5px solid #FFD210; }
+  .lessons__heading {
+    font-size: 0.8rem;
+    color: #B1B1B1; }
+
+.home {
+  margin: 7% 0; }
+  .home__container {
+    border: 1px dashed #B1B1B1;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    padding: 3rem;
+    border-top: 20px solid #189888; }
+  .home__heading {
+    height: 3.2rem; }
+  .home__sub-heading {
+    font-size: 0.8rem;
+    font-weight: 700;
+    margin: 1rem 0; }
+  .home__content {
+    font-size: 0.8rem;
+    font-weight: 300; }
+  .home__list {
+    display: flex; }
+  .home__list-item {
+    list-style: none;
+    margin: 1rem; }
+  .home__button {
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    color: #189888;
+    background: #FAFAFA;
+    border: 1px solid #189888;
+    cursor: pointer; }
+    .home__button:hover {
+      background: #189888;
+      color: #FFFFFF; }
+
+.nav__container {
+  background: #01151E;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 3.2rem;
+  padding: 0 1rem; }
+.nav__items {
+  list-style: none; }
+.nav__item-link {
+  color: #F0F0F0;
+  text-decoration: none;
+  margin: 0 1rem; }
+.nav__item-logo {
+  height: 1.6rem; }
+
+html, body, li, ul, h1, h2, h3 {
+  padding: 0;
+  margin: 0;
+  font-family: "Montserrat", sans-serif; }
+
+/*# sourceMappingURL=app.css.map */

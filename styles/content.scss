@@ -1,0 +1,52 @@
+.content{
+  background: $light-gray;
+  padding: $pg-padding 0;
+  &__heading {
+    font-size: $h2-size;
+    font-weight: 700;
+    margin: $md-margin 0;
+    text-align: center;
+  }
+}
+
+.profiles {
+  padding-top: $pg-padding;
+  margin: 0 $pg-margin;
+  &__list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    margin: $lg-margin*2 0;
+  }
+  &__img {
+    width: 200px;
+    margin: 0 $lg-margin;
+    border-radius: 100px;
+  }
+  &__heading {
+    font-size: $p-size;
+    color: $gray;
+  }
+}
+
+.lessons {
+  margin: 0 $pg-margin;
+  &__list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    margin: $lg-margin*2 0;
+  }
+  &__img {
+    width: 200px;
+    height: 250px;
+    margin: 0 $lg-margin;
+    border-top: $border-radius solid $tab-yellow;
+  }
+  &__heading {
+    font-size: $p-size;
+    color: $gray;
+  }
+}
