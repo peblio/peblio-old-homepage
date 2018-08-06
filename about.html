@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Peblio</title>
+    <link rel=icon href=./favicon.ico>
+    <link rel="stylesheet" href="./styles/app.css" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" type="text/javascript" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+  function submitted() {
+    let submitted = false;
+    $('#email-form *').fadeOut(2);
+    $('#email-form').prepend('Your submission has been processed...');
+    };
+  </script>
+  </head>
+  <body>
+
+    <nav class="nav__container">
+      <ul class="nav__items">
+        <li class="nav__item">
+          <img
+          class="nav__item-logo"
+          src="./images/logo.png"
+          />
+        </li>
+      </ul>
+      <ul class="nav__items">
+        <li class="nav__item">
+          <a class="nav__item-link" href="/index.html" >
+            Home
+          </a>
+          <a class="nav__item-link nav__item-link--selected" href="#" >
+            About
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+
+    <img class="about__cover-image" src="./images/about__cover.png">
+
+
+    <section class="contact">
+      <div class="contact-left">
+        <h1 class="contact__heading">
+          Contact Us
+        </h1>
+        <h2 class="contact__sub-heading">
+          We'd love to hear from you!
+        </h2>
+      </div>
+      <div class="contact-right">
+        <form data-name="Email Form" class="contact__form"
+       name="gform" id="email-form" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScei0ZhAtP73aZ2bKFAP3p_ijp0f3dd7kGYIulJYVAzsKEy5A/formResponse?" target="hidden_iframe" onsubmit="
+        $('#email-form *').fadeOut(20);
+        $('#email-form').prepend('Thank you for your reaching out!');
+        submitted=true;"
+        >
+
+          <input type="email" class="contact__form-field text-field-2 w-input" maxlength="256" name="entry.1207403692" data-name="Email" placeholder="Your email" id="entry.1207403692" required="">
+          <textarea id="entry.1665663838" name="entry.1665663838" placeholder="Your message " maxlength="5000" class="contact__form-field textarea w-input"></textarea>
+          <input type="submit" value="Submit" data-wait="Please wait..." class="contact__form-field contact__button">
+
+      </form>
+       <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+     </div>
+    </section>
+
+  </body>
+</html>

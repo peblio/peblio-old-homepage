@@ -1,0 +1,78 @@
+.contact {
+  background: $dark-gray;
+  display: flex;
+  flex-direction: row;
+  padding: 2rem 0;
+}
+
+.contact-left {
+  width: 40%;
+  margin: 0 10%;
+}
+
+.contact__heading {
+  color: $white;
+}
+
+.contact__sub-heading {
+  color: $lightest-gray;
+  font-size: $h2-size;
+  font-weight: 300;
+}
+
+.contact-right {
+  width: 60%;
+  margin-right:10%;
+  display: flex;
+  flex-direction: column;
+}
+
+.contact__form {
+  display: flex;
+  flex-direction: column;
+  color: $white;
+}
+
+.contact__form-field {
+  margin: $sm-margin 0;
+  font-size: $p-size;
+  padding: $sm-padding;
+  color: $black;
+  &::placeholder {
+    color: $black;
+  }
+}
+
+.contact__button {
+  font-size: $p-size;
+  background-color: $dark-gray;
+  color: $white;
+  text-transform: uppercase;
+  width: fit-content;
+  padding: $sm-padding;
+  outline: solid $border-size $white;
+  cursor: pointer;
+  &:hover {
+    background-color: #fefefe;
+    color: $dark-gray;
+  }
+}
+
+
+/* iPads (portrait and landscape) ----------- */
+@media screen  and (max-width: 1024px) {
+/* Styles */
+
+  .contact {
+    flex-direction: column;
+  }
+
+  .contact-left{
+    width: 80%;
+    margin: 0 10%;
+  }
+   .contact-right {
+     width: 80%;
+     margin: 0 10%;
+   }
+}

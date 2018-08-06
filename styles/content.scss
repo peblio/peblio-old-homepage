@@ -1,0 +1,103 @@
+.content{
+  background: $green;
+   background: linear-gradient($green, $light-green);
+  padding: $pg-padding 0;
+  &__heading {
+    font-size: $h2-size;
+    font-weight: 700;
+    margin: $md-margin 0;
+    text-align: center;
+    color: $white;
+  }
+}
+
+.profiles {
+  padding-top: $pg-padding;
+  margin: 0 $pg-margin;
+  &__list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin: $lg-margin*2 0;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  &__list-item {
+    width:25%;
+  }
+  &__img {
+    width: 200px;
+    margin: 0 $lg-margin;
+    border-radius: 100px;
+  }
+  &__heading {
+    font-size: $p-size;
+    color: $white;
+  }
+  &__name {
+    display: flex;
+    justify-content: center;
+    color: $white;
+    text-decoration: none;
+  }
+  &__link {
+    text-decoration: none;
+  }
+}
+
+.lessons {
+  margin: 0 $pg-margin;
+  &__list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: $lg-margin*2 0;
+  }
+  &__list-item {
+    width: 25%;
+    margin: $md-margin 0;
+  }
+  &__img {
+    width: 200px;
+    height: 250px;
+    margin: 0 $lg-margin;
+    cursor: pointer;
+    opacity: 01;
+    &:hover {
+      opacity: 0.9;
+    }
+  }
+  &__heading {
+    font-size: $p-size;
+    color: $white;
+  }
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+/* Styles */
+
+  .lessons__list-item {
+    width: 50%;
+  }
+
+  .profiles__list-item {
+    width:50%;
+  }
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media screen and (max-width: 768px) {
+/* Styles */
+
+  .lessons__list-item {
+    width: 100%;
+  }
+
+  .profiles__list-item {
+    width:100%;
+  }
+
+}
