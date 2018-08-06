@@ -1,21 +1,30 @@
 .nav {
   &__container {
+    position: fixed;
+    top: 0;
+    width: 100%;
     background: $dark-gray;
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: $nav-height;
-    padding: 0  $md-padding;
+
   }
   &__items {
     list-style: none;
+    margin: 0 $md-margin;
   }
   &__item {
     &-link {
       color: $light-gray;
       text-decoration: none;
       margin: 0 $md-margin;
-
+      &--selected {
+        color: $green;
+      }
+      &:hover {
+        color: $green;
+      }
     }
     &-logo {
       height: $nav-height/2;

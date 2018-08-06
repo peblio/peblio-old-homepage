@@ -1,5 +1,6 @@
 .home {
   margin: $pg-padding 0;
+  margin-top: $pg-padding+$nav-height;
   &__container {
     border: $border-size dashed $gray;
     width: 40%;
@@ -12,15 +13,18 @@
   }
   &__heading {
     height: $h1-size;
+    text-align: center;
   }
   &__sub-heading {
     font-size: $p-size;
     font-weight: 700;
     margin: $md-margin 0;
+    text-align: center;
   }
   &__content {
     font-size: $p-size;
     font-weight: 300;
+    text-align: center;
   }
   &__list {
     display: flex;
@@ -28,6 +32,7 @@
   &__list-item {
     list-style: none;
     margin: $md-margin;
+
   }
   &__button {
     padding: $sm-padding $md-padding;
@@ -36,6 +41,8 @@
     background: $lightest-gray;
     border: $border-size solid $green;
     cursor: pointer;
+    font-size: $p-size;
+    text-decoration: none;
     &:hover {
       background: $green;
       color: $white;
